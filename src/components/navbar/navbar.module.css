@@ -1,0 +1,245 @@
+.Navbar button {
+
+    /* background-color: #3e2627; */
+    background-color: transparent;
+    height: 50px;
+    width: 335px;
+    border-radius: 8px;
+    border-color: transparent;
+    color: aliceblue;
+    margin-bottom: 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #6c757d;
+    cursor: pointer;
+    
+    /* padding: ; */
+}
+
+
+.Navbar .Active button{
+    background: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    color: white;
+}
+
+.Navbar .Signin button{
+    background: #e76f51;
+    color: white;
+    height: 35  px;
+    width: 335px;
+    position: relative;
+    top: 5px;
+}
+
+.Feed {
+    /* height: 100px */
+    padding-bottom: 5px;
+    
+}
+
+.Profile {
+    padding-bottom: 5px;
+}
+
+.Explore {
+    padding-bottom: 5px;
+}
+
+.Language {
+    padding-bottom: 5px;
+}
+
+.Logout {
+    padding-bottom: 5px;
+}
+
+.Pages {
+    padding-bottom: 5px;
+}
+
+.Trending {
+    padding-bottom: 5px;
+}
+
+button:hover{
+    background: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+}
+
+.Pages_ico img {
+    height: 50px;
+    width: 50px;
+}
+
+.Pages_text img{
+    position: relative;
+    top: 2px;
+    right: 70px;
+    height: 20px;
+    /* width: 50px; */
+}
+
+.Feed img {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    /* left: -140px; */
+}
+
+.icobutton1 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -120px;
+    display: inline-block;
+}
+
+.icobutton2 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -109px;
+    display: inline-block;
+}
+
+.icobutton3 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -106px;
+    display: inline-block;
+}
+
+.icobutton4 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -100px;
+    display: inline-block;
+}
+
+.icobutton5 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -109px;
+    display: inline-block;
+}
+
+.icobutton6 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -116px;
+    display: inline-block;
+}
+
+.icobutton7 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: -104px;
+    display: inline-block;
+}
+
+.text {
+    display: inline-block;
+    position: relative;
+    left: -107px;
+    top: -3px;
+}
+
+.text2 {
+    display: inline-block;
+    position: relative;
+    left: -95px;
+    top: -3px;
+}
+
+.text3 {
+    display: inline-block;
+    position: relative;
+    left: -95px;
+    top: -3px;
+}
+
+.text4 {
+    display: inline-block;
+    position: relative;
+    left: -88.5px;
+    top: -3px;
+}
+
+.text5 {
+    display: inline-block;
+    position: relative;
+    left: -99px;
+    top: -3px;
+}
+
+.text6 {
+    display: inline-block;
+    position: relative;
+    left: -105px;
+    top: -3px;
+}
+
+.text7 {
+    display: inline-block;
+    position: relative;
+    left: -93px;
+    top: -3px;
+}
+
+/* .ico3 {
+    position: relative;
+    left:1px;
+} */
+
+.line1 {
+  width: 2px;
+  height: 2200px;
+  background-color: #4d4d4d74;
+  position:relative;
+  left: 343px;
+  top: -530px;
+  display: inline-block;
+}
+
+.line2 {
+  width: 2px;
+  height: 2200px;
+  background-color: #4d4d4d74;
+  position:relative;
+  left: 1052px;
+  top: -530px; 
+  display: inline-block;
+}
+
+.line3 {
+    width: 363px;
+    height: 2px;
+    background-color: #4d4d4d74;    
+    position: relative;
+    top:-2190px;
+    right: 20px;
+}
+
+.line4 {
+    width: 383px;
+    height: 2px;
+    background-color: #4d4d4d74;    
+    position: relative;
+    top:-2670px;
+    left: 1056px;
+}
+
+.line5 {
+    width: 383px;
+    height: 2px;
+    background-color: #4d4d4d74;    
+    position: relative;
+    top:-2136px;
+    left: 1056px;
+}

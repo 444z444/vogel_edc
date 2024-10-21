@@ -1,0 +1,46 @@
+.main {
+    height: 2200px;
+}
+
+.navbar {
+    position: relative;
+    top: 25px;
+}
+
+.p1 {
+    position: relative;
+    top: 50px;
+}
+
+.t1 {
+    color: white;
+    position: relative;
+    top: 39px;
+}
+
+.t2 {
+    color: white;
+    position: relative;
+    top: 85px;
+}
+
+.t3 {
+    color: white;
+    position: relative;
+    top: -10px;
+}
+
+.p2 {
+    position: relative;
+    top: 95px;
+}
+
+.p3t3 {
+    position: relative;
+    top: 125px;
+}
+
+.p2t2 {
+    position: relative;
+    top: -5px;
+}

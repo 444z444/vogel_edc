@@ -1,0 +1,27 @@
+.searchbox {
+    background-color: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    height: 45px;
+    border-radius: 14px;
+}
+
+.text {
+    position: relative;
+    /* top: px; */
+    bottom: 10px;
+    left: 50px;
+    font-size: 14.5px;
+    color: #6c757d;
+}
+
+.lupa_kartinka img {
+    height: 18px;
+    width: 18px;
+}
+
+.lupa_kartinka {
+    display: inline-block;
+    position: relative;
+    top: 14px;
+    left: 15px;
+}

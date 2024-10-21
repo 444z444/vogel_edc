@@ -1,0 +1,188 @@
+.Post1 {
+    height: 800px;
+    width: 700px;
+    background-color: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    position: relative;
+    bottom: 323px;
+    border-radius: 14px;
+}
+
+.ava img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    padding: 10px;
+    
+}
+
+.ava {
+    display: inline-block;
+}
+
+.name {
+    display: inline-block;
+    position: relative;
+    bottom: 40px;
+    left: 5px;
+    color: white;
+}
+
+.veruser img {
+    height: 20px;
+    width: 20px;
+    /* display: inline-block; */
+}
+
+.veruser {
+    display: inline-block;
+    position: relative;
+    /* bottom: 30px; */
+    left: 12.5px;
+    bottom: 35px;
+}
+
+/* .wbveruser {
+    position: relative;
+    top: 10px;
+    background-color: white;
+    bottom: 92px;
+    left: 175px;
+    height: 5px;
+    width: 5px;
+} */
+
+.nametag {
+    position: relative;
+    bottom: 56px;
+    left: 200px;
+    font-size: 10px;
+    color: #6c757d;
+}
+
+.text1 {
+    position: relative;
+    left: 75px;
+    bottom: 40px;
+    font-size: 13.5px;
+    color: #e76f51;
+}
+
+.text2 {
+    position: relative;
+    left: 75px;
+    bottom: 25px;
+    font-size: 13.5px;
+    color: white;
+}
+
+.text3 {
+    position: relative;
+    font-size:13.5px;
+    left:75px;
+    bottom: 11px;
+    color: white;
+}
+
+.kartinka img {
+    height: 300px;
+    width: 600px;
+    border-radius: 14px;
+}
+
+.kartinka {
+    position: relative;
+    left: 75px;
+    top:5px;
+}
+.buttonsunderimg img {
+    height: 22px;
+    width: 22px;
+}
+
+.buttonsunderimg {
+    position: relative;
+    left: 75px;
+    top: 10px;
+    display: inline-block;
+}
+
+.likecount {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    bottom: 3px;
+}
+
+.commentcount {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    bottom: 7px;
+}
+
+/* .likeico {
+    display: inline-block;
+} */
+
+.repostcount {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    bottom: 6px;
+}
+
+.sharetext {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    bottom: 6px;
+}
+
+.likeico {
+    display: inline-block;
+}
+
+.commentico {
+    display: inline-block;
+    position: relative;
+    left: 115px;
+    top: 3px;
+    /* color: white; */
+}
+
+.repostico {
+    display: inline-block;
+    position: relative;
+    left: 250px;
+    top: 3px;
+}
+
+.shareico {
+    display: inline-block;
+    position: relative;
+    left: 370px;
+    top: 3px;
+}
+
+.writecomment {
+    position: relative;
+    left: 75px;
+    top: 25px;
+}
+
+.comments {
+    position: relative;
+    top: 30px;
+    left: 75px;
+}
+
+.comment_2 {
+    position: relative;
+    top: 10px;
+}
+
+.comment_3 {
+    position: relative;
+    top: 20px;
+}

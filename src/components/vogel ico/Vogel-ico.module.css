@@ -1,0 +1,14 @@
+.ico {
+    background-color: #3e2627;
+}
+
+
+.ico img {
+    width: 100px;
+    height: 100px;
+}
+
+.ico button {
+    background-color: transparent;
+    border-color: transparent;
+}

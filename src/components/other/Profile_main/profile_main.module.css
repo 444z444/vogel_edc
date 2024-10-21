@@ -1,0 +1,279 @@
+.main {
+    background-color: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    height: 259px;
+    width: 700px;
+    border-radius: 14px;
+    position: relative;
+    
+}
+
+.ava img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+.ava {
+    display: inline-block;
+    
+}
+
+.name {
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    
+}
+
+.refuser {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    left: 7px;
+}
+
+.nametagref {
+    display: inline-block;
+    position: relative;
+    top: -15px;
+    left: 15px;
+}
+
+.tag {
+    font-size: 15px;
+    color: #6c757d;
+}
+
+.refuser img{
+    height: 20px;
+    width: 20px;
+}
+
+.info {
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+.text {
+    font-size: 18.9px;
+    color: white;
+    position: relative;
+    top: 5px;
+}
+
+.linkimg img{
+    height: 15px;
+    width: 15px;
+    
+}
+
+.linkimg {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+}
+
+.linktext {
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    color: #e76f51;
+}
+
+.joinimg img {
+    height: 15px;
+    width: 15px;
+}
+
+.joinimg {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+}
+
+.joindatetext {
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    color: white;
+    
+}
+
+.joindate {
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    
+}
+
+.link {
+    display: inline-block;
+    position: relative;
+}
+
+.link_data {
+    position: relative;
+    top: 10px;
+}
+
+.f1 {
+    display: inline-block;
+    color: white;
+}
+
+.f2 {
+    display: inline-block;
+    color: #6c757d;
+}
+
+.fi1 {
+    display: inline-block;
+}
+
+.fi2 {
+    display: inline-block;
+    position: relative;
+    left: -5px;
+}
+
+.fi3 {
+    display: inline-block;
+    position: relative;
+    left: -10px;
+}
+
+.fi4 {
+    display: inline-block;
+    position: relative;
+    left: -15px;
+}
+
+.fi5 {
+    display: inline-block;
+    position: relative;
+    left: -20px;
+}
+
+.followersimg img {
+    height: 24px;
+    width: 24px;
+    border-radius: 50px;
+    position: relative;
+    top: -26px;
+    left: 2px;
+    
+    
+}
+
+.fib1 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    border-radius: 50px;
+}
+
+.fib2 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    border-radius: 50px;
+}
+
+.fib3 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    border-radius: 50px;
+}
+
+.fib4 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    border-radius: 50px;
+}
+
+.fib5 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    border-radius: 50px;
+}
+
+.followers {
+    position: relative;
+    top: 15px;
+}
+
+.following_text {
+    display: inline-block;
+}
+
+.following_count {
+    display: inline-block;
+}
+
+.following img {
+    height: 24px;
+    width: 24px;
+    border-radius: 50px;
+    position: relative;
+    top: -26px;
+    left: 2px;
+}
+
+.following1 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    border-radius: 50px;
+}
+
+.following2 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    top: -28px;
+    left: 23px;
+    border-radius: 50px;
+}
+
+.following3 {
+    height: 28px;
+    width: 28px;
+    background-color: white;
+    position: relative;
+    top: -56px;
+    left: 46px;
+    border-radius: 50px;
+}
+
+.following_count {
+    color: white;
+}
+
+.following_text {
+    position: relative;
+    left: 5px;
+    color: #6c757d;
+}
+
+.f2 {
+    position: relative;
+    left: 5px;
+}
+
+.following {
+    position: relative;
+    top: -77px;
+    left: 208px;
+}

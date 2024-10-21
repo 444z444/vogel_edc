@@ -1,0 +1,28 @@
+.post1 {
+    position: relative;
+    top: 380px;
+}
+
+.post2 {
+    position: relative;
+    top: 400px;
+}
+
+.main {
+    height: 2200px;
+}
+
+.navbar {
+    position: relative;
+    top: 40px;
+}
+
+.backtocontent {
+    position: relative;
+    top: 15px;
+}
+
+.profileinfo {
+    position: relative;
+    top: 25px;
+}

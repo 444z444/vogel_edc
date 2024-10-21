@@ -1,0 +1,173 @@
+.mainbox {
+    background: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    height: 516px;
+    border-radius: 14px;
+    color: white;
+    
+}
+
+.partname{
+    font-size:14px;
+    position: relative;
+    left: 15px;
+    top:15px;
+}
+
+.part1 {
+    font-size: 14px;
+    position: relative;
+    left: 15px;
+    top: 35px;
+}
+
+.part2 {
+    font-size: 14px;
+    position: relative;
+    left: 15px;
+    top: 55px;
+}
+
+.p1t1 {
+    color: #6c757d;
+}
+
+.p1t2 {
+    font-size: 13px;
+}
+
+.p1t3 {
+    color: #6c757d;
+}
+
+.p1t4 {
+    color:#e76f51;
+}
+
+.p2t1 {
+    font-size: 13px;
+}
+
+.p2t2 {
+    color:#6c757d;
+}
+
+.p2t3 {
+    color:#6c757d;
+}
+
+.part3 {
+    font-size: 13px;
+    position: relative;
+    left: 15px;
+    top: 75px;
+}
+
+.p3t1 {
+    color: #6c757d;
+}
+
+.p3t2 {
+    font-size: 14px;
+}
+
+.p3t3 {
+    color: #6c757d;
+}
+
+.p3t4 {
+    color:#6c757d
+}
+
+.part4 {
+    font-size: 13px;
+    position: relative;
+    left: 15px;
+    top: 95px;
+}
+
+.p4t1 {
+    color: #6c757d;
+}
+
+.p4t2 {
+    font-size: 14px;
+}
+
+.p4t3 {
+    color: #6c757d;
+}
+
+.part5 {
+    font-size: 13px;
+    position: relative;
+    left: 15px;
+    top: 115px;
+
+}
+
+.p5t1 {
+    color: #6c757d;
+}
+
+.p5t2 {
+    font-size: 14px;
+}
+
+.p5t3 {
+    font-size: 14px;
+}
+
+.p5t4 {
+    font-size: 14px;
+}
+
+.showmore {
+    font-size: 13px;
+    color: #e76f51;
+    position: relative;
+    left: 15px;
+    top: 135px;
+}
+
+.line1 {
+    background: #4d4d4d74;
+    height: 1px;
+    position: relative;
+    bottom: 317px;
+}
+
+.line2 {
+    background: #4d4d4d74;
+    height: 1px;
+    position: relative;
+    bottom: 227px;
+}
+
+.line3 {
+    background: #4d4d4d74;
+    height: 1px;
+    position: relative;
+    bottom: 151px;
+}
+
+.line4 {
+    background: #4d4d4d74;
+    height: 1px;
+    position: relative;
+    bottom: 63px;
+}
+
+.line5 {
+    background: #4d4d4d74;
+    height: 1px;
+    position: relative;
+    bottom: -10px;
+}
+
+.line6 {
+    background: #4d4d4d74;
+    height: 1px;
+    position: relative;
+    bottom: -102px;
+}

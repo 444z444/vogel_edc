@@ -1,0 +1,31 @@
+.grey {
+    background-color: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    height: 30px;
+    width: 555px;
+    border-radius: 8px ;
+    display: inline-block;
+    position: relative;
+    bottom: 18px;
+    left: 10px;
+    
+}
+
+.WriteYourComment {
+    position: relative;
+    color: #6c757d;
+    top: 4px;
+    left: 10px;
+    font-size: 13.5px;
+    /* display: inline-block; */
+}
+
+.ava img{
+    height: 36px;
+    width: 36px;
+    border-radius: 100px;
+}
+
+.ava {
+    display: inline-block;
+}

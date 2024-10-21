@@ -1,0 +1,101 @@
+.box {
+    height:  170px;
+    width: 130px;
+    background-color: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    border-radius: 14px;
+}
+
+.box img {
+    height: 65px;
+    width: 65px;
+    border-radius: 50px;
+    position: relative;
+    left: 34px;
+    top: 10px;
+}
+
+.name {
+    position: relative;
+    left: 20px;
+    /* top: 0px; */
+    bottom: 15px;
+    color: white;
+}
+
+.descrip {
+    position: relative;
+    left: 40px;
+    /* top: 8px; */
+    bottom: 15px;
+    font-size: 13px;
+    /* color */
+}
+
+.ver img{
+    height: 20px;
+    width: 20px;
+}
+
+.ver {
+    position: relative;
+    bottom: 24px;
+    left: 23px;
+}
+
+.whitebullshit {
+    height: 10px;
+    width: 14px;
+    background-color: white;
+    position: relative;
+    left: 60px;
+    top: 1px;
+}
+
+.flwbutton {
+    position: relative;
+    left: 30px;
+    bottom: 6px;
+    background: #e76f51;
+    border-radius: 30px;
+    height: 25.5px;
+    width: 73px;
+    
+}
+
+.flwbutton button {
+    background-color: transparent;
+    border-color: transparent;
+    color:white;
+}
+
+.conteiner2 {
+    position: relative;
+    left: 140px;
+    bottom: 170px;
+}
+
+.flwbuttonplus button {
+    background-color: transparent;
+    border-color: transparent;
+    /* border-radius: 30px; */
+    /* border-inline-color: #e76f51; */
+    color:white;
+}
+
+.flwbuttonplus {
+    position: relative;
+    left: 30px;
+    bottom: 6px;
+    background: #e76f51;
+    border-radius: 30px;
+    height: 25.5px;
+    width: 73px;
+    
+}
+
+.conteiner3 {
+    position: relative;
+    left: 140px;
+    bottom: 170px;
+}

@@ -1,0 +1,55 @@
+.main {
+    height: 52px;
+    width: 696px;
+
+    text-transform: uppercase;
+}
+
+.box1 {
+    display: inline-block;
+    height: 52px;
+    width: 174px;
+    border-radius: 14px 0px 0px 14px;
+    
+    
+}
+
+.box2 {
+    display: inline-block;
+    height: 52px;
+    width: 174px;
+    
+}
+
+.box3 {
+    display: inline-block;
+    height: 52px;
+    width: 174px;
+    
+}
+
+.box4 {
+    display: inline-block;
+    height: 52px;
+    width: 174px;
+    border-radius: 0px 14px 14px 0px;
+
+}
+
+.active {
+    color: white;
+    background-color:#e76f51;
+}
+
+
+.nonactive {
+    background-color: #403a3b;
+    color: #99a2ab;
+}
+
+.text {
+    text-align: center;
+    position: relative;
+    top: 15px;
+    font-size: 14px;
+}

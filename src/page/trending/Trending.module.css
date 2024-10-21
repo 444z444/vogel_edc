@@ -1,0 +1,23 @@
+.main {
+    height: 1900px;
+}
+
+.crpost {
+    position: relative;
+    top: 40px;
+}
+
+.post1 {
+    position: relative;
+    top:380px;
+}
+
+.post2 {
+    position: relative;
+    top: 400px;
+}
+
+.navbar {
+    position: relative;
+    top: 25px;
+}

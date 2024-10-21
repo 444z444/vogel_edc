@@ -1,0 +1,177 @@
+.main {
+    height: 275px;
+    width: 693px;
+    background: rgba(65, 65, 65, .25);
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    border-radius: 14px;
+}
+
+.line1{
+    width: 693px;
+    height: 1px;
+    position: relative;
+    top: -130px;
+    background-color: #4d4d4d74;
+}
+
+.line2 {
+    width: 693px;
+    height: 1px;
+    position: relative;
+    top: -35px;
+    background-color: #4d4d4d74;
+}
+
+.name {
+    color: white;
+    font-size: 14px;
+    
+}
+
+.tag {
+    color: #6c757d;
+    font-size: 12px;
+}
+
+.link {
+    color: #6c757d;
+    display: inline-block;
+}
+
+.groups {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.ava {
+    display: inline-block;
+    
+}
+
+.info {
+    display: inline-block;
+    position: relative;
+    left: 10px;
+}
+
+.info2 {
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.info3 {
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.link {
+    font-size: 12px;
+}
+
+.link_img {
+    display: inline-block;
+}
+
+.link_text {
+    display: inline-block;
+    position: relative;
+    left: 3px;
+}
+
+.link_img img {
+    height: 10px;
+    width: 10px;
+}
+
+.ava img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.veruser img {
+    height: 15px;
+    width: 15px;
+}
+
+.name {
+    display: inline-block;
+}
+
+.veruser {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+
+.description {
+    font-size: 12px;
+    color: white;
+}
+
+.p2 {
+    position: relative;
+    top: 20px;
+}
+
+.p3 {
+    position: relative;
+    top: 40px;
+}
+
+.button {
+    display: inline-block;
+    position: relative;
+    left: 470px;
+    top: -15px;
+    
+    
+}
+
+.button button{
+    background-color: #e76f51;
+    border-radius: 14px;
+    border-color: transparent;
+    height: 25px;
+    width: 80px;
+}
+
+.button2 {
+    display: inline-block;
+    position: relative;
+    left: 530px;
+    top: -35px;
+    
+    
+}
+
+.button2 button{
+    background-color: #e76f51;
+    border-radius: 14px;
+    border-color: transparent;
+    height: 25px;
+    width: 80px;
+}
+
+.button3 {
+    display: inline-block;
+    position: relative;
+    left: 530px;
+    top: -40px;
+    
+    
+}
+
+.button3 button{
+    background-color: #e76f51;
+    border-radius: 14px;
+    border-color: transparent;
+    height: 25px;
+    width: 80px;
+}

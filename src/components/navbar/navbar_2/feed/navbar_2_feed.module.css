@@ -1,0 +1,59 @@
+.buttons {
+    height: 52px;
+    width: 696px;
+    
+    font-size: 14px;
+}
+
+.feed {
+    display: inline-block;
+    border-radius: 14px 0px 0px 14px;
+    height: 52px;
+    width: 232px;
+    text-align: center;
+}
+
+.people {
+    display: inline-block;
+    height: 52px;
+    width: 232px;
+    text-align: center;
+}
+
+.trending {
+    display: inline-block;
+    border-radius: 0px 14px 14px 0px;
+    height: 52px;
+    width: 232px;
+    text-align: center;
+}
+
+.active {
+    background-color: #e76f51;    
+}
+
+.active div {
+    color: white;
+}
+
+.nonactive {
+    background-color: #403a3b;    
+}
+
+.nonactive div {
+    color: #99a2ab;
+}
+
+.text{
+    position: relative;
+    bottom: 1px;
+    text-transform: uppercase;
+}
+
+.buttons button {
+    width: 232px;
+    height: 54px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+}
